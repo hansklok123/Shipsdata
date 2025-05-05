@@ -1,0 +1,6 @@
+{
+  "name": "rotterdam-schepen",
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
